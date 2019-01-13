@@ -1,2 +1,2 @@
 # botjager
-BotJäger is a platform to identify Bots used in Twitter that produces Trending Topics
+BotJäger is a platform to identify Bots that produce Trending Topics in Twitter
